@@ -1,0 +1,6 @@
+{
+  "name": "StudyBuddy",
+  "description": "A focused AI app for students to upload notes, ask questions, build personalized study plans, and generate interactive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
